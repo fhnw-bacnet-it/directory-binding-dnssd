@@ -1,0 +1,9 @@
+.DS_Store
+.gradle
+.project
+.classpath
+.settings/
+.checkstyle
+*log
+/bin/
+/build/
