@@ -1,4 +1,4 @@
-package ch.fhnw.bacnetit.directory.bindings;
+package ch.fhnw.bacnetit.directorybinding.dnssd;
 
 import java.io.IOException;
 import java.net.URI;
@@ -21,9 +21,9 @@ import org.xbill.DNS.TextParseException;
 import org.xbill.DNS.Type;
 import org.xbill.DNS.Update;
 
-import ch.fhnw.bacnetit.stack.application.configuration.DiscoveryConfig;
-import ch.fhnw.bacnetit.stack.encoding.BACnetEID;
-import ch.fhnw.bacnetit.stack.network.directory.DirectoryBinding;
+import ch.fhnw.bacnetit.ase.application.configuration.DiscoveryConfig;
+import ch.fhnw.bacnetit.ase.encoding.BACnetEID;
+import ch.fhnw.bacnetit.ase.network.directory.DirectoryBinding;
 import io.netty.util.internal.logging.InternalLogger;
 import io.netty.util.internal.logging.InternalLoggerFactory;
 
