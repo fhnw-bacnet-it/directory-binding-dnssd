@@ -1,3 +1,5 @@
-# Directory Binding - DNSSD
+# BACnet/IT Directory Binding - DNSSD
 
-Consider the GitHub Page under https://github.com/fhnw-BACnet-IT/fhnw-BACnet-IT.github.io
+This repository contains a DNSSD directory binding to be used with the BACnet/IT communication stack.
+
+See the GitHub Page under https://fhnw-bacnet-it.github.io to get a tutorial on how to use it.
